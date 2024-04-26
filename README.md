@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/umeshgjh" target="blank"><img src="https://img.shields.io/twitter/follow/umeshgjh?logo=twitter&style=for-the-badge" alt="umeshgjh" /></a> </p>
 
-<img align="right" alt="SIMPLY" width="400" src="https://imgs.search.brave.com/wB1uc1F75FKCDHt92-b2zBG9H6fiKQZASqcLOmXGwZE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM3/MDkyOTM3Ny9waG90/by9jbG9zZS11cC1v/Zi1jb21wdXRlci1w/cm9ncmFtbWVyLWNv/ZGluZy5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9dmxvQkhr/d0I4azVfWUszTXRf/NUJvbG50VG1qUnFP/Z2tBSzUzMXlzM2hr/bz0">
+
 
 - 👯 I’m looking to collaborate out for **Computer Vision and Full Stack Projects.**
 
