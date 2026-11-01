@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/umeshgjh" target="blank"><img src="https://img.shields.io/twitter/follow/umeshgjh?logo=twitter&style=for-the-badge" alt="umeshgjh" /></a> </p>
 
-- 👯 I’m looking to collaborate out for **Computer Vision and Full Stack Projects.**
+- 👯 I’m looking to collaborate out for **Computer Vision and Machine Learning.**
 
 - 📫 Reach me at **gjhumesh@gmail.com**
 
