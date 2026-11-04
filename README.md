@@ -84,20 +84,6 @@
 
 <img width="65%" src="https://streak-stats.demolab.com/?user=umeshgjh&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=umeshgjh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-</div>
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/umeshgjh/umeshgjh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
-
 </div>
 
 ---
